@@ -1,0 +1,6 @@
+pandas==2.1.4
+numpy==1.26.2
+pytest==7.4.4
+# For AWS production mode only (not needed for local demo):
+# boto3==1.34.0
+# psycopg2-binary==2.9.9
